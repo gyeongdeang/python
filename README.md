@@ -8,7 +8,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api/random?tier=platinum&theme=warm)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ohhamma)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=pichulia)
+![mazandi profile](http://mazandi.herokuapp.com/api?gyeongdeang=pichulia)
 
 ![](https://github.com/mazassumnida/mazandi/blob/main/readme_images/bronze_warm.svg)
 ![](https://github.com/mazassumnida/mazandi/blob/main/readme_images/silver_warm.svg)
